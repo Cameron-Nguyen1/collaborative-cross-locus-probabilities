@@ -1,5 +1,7 @@
 # Collaborative Cross Locus Probabilities
 ![alt text](https://i.imgur.com/h8cmemI.png)
+![image](https://github.com/user-attachments/assets/67c90e95-75ac-489b-a8a2-af877af7a9d0)
+
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Description:
 Queries the University of North Carolina's Collaborative Cross genetics site for founder contribution probabilities at a given locus.
