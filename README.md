@@ -7,7 +7,7 @@ Queries the University of North Carolina's Collaborative Cross genetics site for
 This application is using Python 3.10 Runtime.
 This application is particularly useful for QTL analysis (also available in my public repo) where collaborative cross mice are used.
 
-Results are avaiable in 
+Results are available in 
 - CSV (CC founder probabilities)
 - FASTA (Ensembl protein sequences by strain, "None" if unable to retrieve for one reason or another)
 
