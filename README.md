@@ -18,4 +18,3 @@ beautifulsoup4
 ### You will need to: 
   Create a lambda function in AWS Lambda with sufficient appropriate permissions. 
   Copy Python and DHTML to function, source Python dependencies
--------------------------------------------------------------------------------------------------------------------------------------
