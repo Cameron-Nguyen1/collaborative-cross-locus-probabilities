@@ -1,6 +1,8 @@
 # Collaborative Cross Locus Probabilities
 ![alt text](https://i.imgur.com/h8cmemI.png)
 ![image](https://github.com/user-attachments/assets/67c90e95-75ac-489b-a8a2-af877af7a9d0)
+![image](https://github.com/user-attachments/assets/6a06e8a3-ce5d-471d-9532-197d83d6bfaf)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Description:
