@@ -7,9 +7,9 @@ This application is using Python 3.10 Runtime.
 This application is particularly useful for QTL analysis (also available in my public repo) where collaborative cross mice are used.
 
 ## Dependencies:
-  requests
-  requests_toolbelt
-  beautifulsoup4
+requests
+requests_toolbelt
+beautifulsoup4
 -------------------------------------------------------------------------------------------------------------------------------------
 ## How to use:
   This application is set up as a Lambda function on AWS that is interacted with through a simple dynamic HTML webform.
