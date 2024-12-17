@@ -11,7 +11,6 @@ requests
 requests_toolbelt
 beautifulsoup4
 
--------------------------------------------------------------------------------------------------------------------------------------
 ## How to use:
   This application is set up as a Lambda function on AWS that is interacted with through a simple dynamic HTML webform.
   Simply enter a gene symbol like "Sox9" or "Irf7" to retrieve the founder contribution probabilities for collaborative cross mice.
