@@ -2,7 +2,7 @@
 ![Figure 1](https://i.imgur.com/h8cmemI.png)
 ![Figure 2](https://github.com/user-attachments/assets/dd0cc2e6-7ce8-4ea6-bfaf-3e88c88d5a39)
 ![Figure 3](https://github.com/user-attachments/assets/ca359d92-ede2-47a8-a081-543c15678898)
-![Figure 4](https://github.com/user-attachments/assets/17808e33-20dc-4bcc-ae1a-16d7d23aef8b)
+![Figure 4](https://github.com/user-attachments/assets/2df701a9-690f-4a58-a686-da24b6684c1e)
 ![Figure 5](https://github.com/user-attachments/assets/6a06e8a3-ce5d-471d-9532-197d83d6bfaf)
 
 
